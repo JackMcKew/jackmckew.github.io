@@ -24,7 +24,7 @@ const greeting = {
   nickname: "",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink: "https://jackmckew.dev/pages/Jack_McKew_CV.pdf",
+  resumeLink: "https://jackmckew.dev/files/Jack_McKew_CV.pdf",
   // portfolio_repository: "https://github.com/JackMcKew/masterPortfolio",
   githubProfile: "https://github.com/JackMcKew",
   blogLink: "https://jackmckew.dev/",
