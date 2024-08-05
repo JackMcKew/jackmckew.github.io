@@ -1,0 +1,422 @@
+{
+  "closed": 18,
+  "data": [
+    {
+      "id": "I_kwDOFjkrZ85kvT4N",
+      "closed": true,
+      "title": "Crash on Android from BGTask.fireHeadlessEvent",
+      "createdAt": "2023-04-30T23:10:34Z",
+      "url": "https://github.com/transistorsoft/capacitor-background-fetch/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "capacitor-background-fetch",
+        "url": "https://github.com/transistorsoft/capacitor-background-fetch",
+        "owner": {
+          "login": "transistorsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2099918?v=4",
+          "url": "https://github.com/transistorsoft"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOC1kjss5kf3Xi",
+      "closed": true,
+      "title": "Crash on Android from BGTask.fireHeadlessEvent",
+      "createdAt": "2023-04-27T04:18:50Z",
+      "url": "https://github.com/transistorsoft/capacitor-background-geolocation/issues/162",
+      "number": 162,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "capacitor-background-geolocation",
+        "url": "https://github.com/transistorsoft/capacitor-background-geolocation",
+        "owner": {
+          "login": "transistorsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2099918?v=4",
+          "url": "https://github.com/transistorsoft"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA4kOPs5bo0h5",
+      "closed": true,
+      "title": "vu app not taking uri_prefix into account (was uri_prefix not working on versions > 0.13.0)",
+      "createdAt": "2023-01-18T05:34:34Z",
+      "url": "https://github.com/go-spatial/tegola/issues/904",
+      "number": 904,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/667850?v=4",
+            "name": "Alexander Rolek",
+            "url": "https://github.com/ARolek"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9784732?v=4",
+            "name": null,
+            "url": "https://github.com/mapl"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tegola",
+        "url": "https://github.com/go-spatial/tegola",
+        "owner": {
+          "login": "go-spatial",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/31428490?v=4",
+          "url": "https://github.com/go-spatial"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5OTA2NTEyMTQ=",
+      "closed": true,
+      "title": "Client S3 send command fails with `TypeError: Cannot read property '#text' of undefined`",
+      "createdAt": "2021-09-08T03:25:17Z",
+      "url": "https://github.com/aws/aws-sdk-js-v3/issues/2761",
+      "number": 2761,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45385394?u=c3b735bcfdf41b7279a64139efd2c85ebff05c2f&v=4",
+            "name": "Daniel",
+            "url": "https://github.com/vudh1"
+          }
+        ]
+      },
+      "repository": {
+        "name": "aws-sdk-js-v3",
+        "url": "https://github.com/aws/aws-sdk-js-v3",
+        "owner": {
+          "login": "aws",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2232217?v=4",
+          "url": "https://github.com/aws"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5MDAxNjI1OTQ=",
+      "closed": true,
+      "title": "Add the requirements file to the options",
+      "createdAt": "2021-05-25T01:30:56Z",
+      "url": "https://github.com/JackMcKew/pyinstaller-action-linux/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+            "name": "Jack McKew",
+            "url": "https://github.com/JackMcKew"
+          }
+        ]
+      },
+      "repository": {
+        "name": "pyinstaller-action-linux",
+        "url": "https://github.com/JackMcKew/pyinstaller-action-linux",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3ODcyOTQwMDc=",
+      "closed": true,
+      "title": "Android 11 - Physical Activity Permission Denied if Location Permission Previously Requested",
+      "createdAt": "2021-01-16T00:03:52Z",
+      "url": "https://github.com/transistorsoft/cordova-background-geolocation-lt/issues/1216",
+      "number": 1216,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cordova-background-geolocation-lt",
+        "url": "https://github.com/transistorsoft/cordova-background-geolocation-lt",
+        "owner": {
+          "login": "transistorsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2099918?v=4",
+          "url": "https://github.com/transistorsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzAyOTI5ODI=",
+      "closed": true,
+      "title": "Relative Links in README",
+      "createdAt": "2020-10-27T09:56:07Z",
+      "url": "https://github.com/JackMcKew/pandas_alive/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pandas_alive",
+        "url": "https://github.com/JackMcKew/pandas_alive",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTMyNzM1NDY=",
+      "closed": false,
+      "title": "Regex not excluding internal links",
+      "createdAt": "2020-10-02T00:49:23Z",
+      "url": "https://github.com/raviqqe/liche/issues/43",
+      "number": 43,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "liche",
+        "url": "https://github.com/raviqqe/liche",
+        "owner": {
+          "login": "raviqqe",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9584358?u=25846c7a24845735a2d813fb3755c58555ef2f05&v=4",
+          "url": "https://github.com/raviqqe"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NzI0NjIxMTk=",
+      "closed": true,
+      "title": "IS_GITHUB_ACTION not being set in GitHub Actions",
+      "createdAt": "2020-08-04T02:40:52Z",
+      "url": "https://github.com/einaregilsson/beanstalk-deploy/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "beanstalk-deploy",
+        "url": "https://github.com/einaregilsson/beanstalk-deploy",
+        "owner": {
+          "login": "einaregilsson",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/557149?v=4",
+          "url": "https://github.com/einaregilsson"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDY1OTU1Mjk=",
+      "closed": true,
+      "title": "Show Time Remaining when progress_bar utilised",
+      "createdAt": "2020-06-27T03:05:21Z",
+      "url": "https://github.com/chriskiehl/Gooey/issues/587",
+      "number": 587,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Gooey",
+        "url": "https://github.com/chriskiehl/Gooey",
+        "owner": {
+          "login": "chriskiehl",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1408720?u=fc5e1eed28ad376d0a97be74cc0855939cfa29cc&v=4",
+          "url": "https://github.com/chriskiehl"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2Mzc0NDMwNzg=",
+      "closed": true,
+      "title": "Visible Value Threshold Limit",
+      "createdAt": "2020-06-12T02:41:43Z",
+      "url": "https://github.com/JackMcKew/pandas_alive/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+            "name": "Jack McKew",
+            "url": "https://github.com/JackMcKew"
+          }
+        ]
+      },
+      "repository": {
+        "name": "pandas_alive",
+        "url": "https://github.com/JackMcKew/pandas_alive",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2Mjc3Mzk5NDg=",
+      "closed": true,
+      "title": "Line plot index crashing plot",
+      "createdAt": "2020-05-30T14:11:04Z",
+      "url": "https://github.com/JackMcKew/pandas_alive/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pandas_alive",
+        "url": "https://github.com/JackMcKew/pandas_alive",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MjcxNzE3NjY=",
+      "closed": true,
+      "title": "Output plots using downloaded raster from bounds2raster doesn't plot correctly",
+      "createdAt": "2020-05-29T10:37:33Z",
+      "url": "https://github.com/geopandas/contextily/issues/155",
+      "number": 155,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "contextily",
+        "url": "https://github.com/geopandas/contextily",
+        "owner": {
+          "login": "geopandas",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/8130715?v=4",
+          "url": "https://github.com/geopandas"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MjMxNjA3ODk=",
+      "closed": true,
+      "title": "Line Plot connects first & last point when used in Multiple Plots with Summary Func",
+      "createdAt": "2020-05-22T12:03:11Z",
+      "url": "https://github.com/JackMcKew/pandas_alive/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+            "name": "Jack McKew",
+            "url": "https://github.com/JackMcKew"
+          }
+        ]
+      },
+      "repository": {
+        "name": "pandas_alive",
+        "url": "https://github.com/JackMcKew/pandas_alive",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MTg5NjAwODQ=",
+      "closed": true,
+      "title": "Add Pydocstyle",
+      "createdAt": "2020-05-15T13:16:30Z",
+      "url": "https://github.com/JackMcKew/pandas_alive/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pandas_alive",
+        "url": "https://github.com/JackMcKew/pandas_alive",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTM2ODAxMzQ=",
+      "closed": true,
+      "title": "Add CI to verify all links are valid",
+      "createdAt": "2020-04-03T22:51:03Z",
+      "url": "https://github.com/JackMcKew/awesome-python-bytes/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "awesome-python-bytes",
+        "url": "https://github.com/JackMcKew/awesome-python-bytes",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTM2Njc0MzI=",
+      "closed": true,
+      "title": "Github Actions not fetching forked repos",
+      "createdAt": "2020-04-03T22:10:59Z",
+      "url": "https://github.com/JackMcKew/awesome-python-bytes/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "awesome-python-bytes",
+        "url": "https://github.com/JackMcKew/awesome-python-bytes",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTM2NTc5Mzc=",
+      "closed": true,
+      "title": "Add links to all images",
+      "createdAt": "2020-04-03T21:45:59Z",
+      "url": "https://github.com/JackMcKew/awesome-python-bytes/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "awesome-python-bytes",
+        "url": "https://github.com/JackMcKew/awesome-python-bytes",
+        "owner": {
+          "login": "JackMcKew",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19178331?u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4",
+          "url": "https://github.com/JackMcKew"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0ODE0NzI4MzM=",
+      "closed": true,
+      "title": "Incorrect spelling on invite form",
+      "createdAt": "2019-08-16T07:03:05Z",
+      "url": "https://github.com/newwwie/newwwie.com/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "newwwie.com",
+        "url": "https://github.com/newwwie/newwwie.com",
+        "owner": {
+          "login": "newwwie",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20916845?v=4",
+          "url": "https://github.com/newwwie"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 19
+}
