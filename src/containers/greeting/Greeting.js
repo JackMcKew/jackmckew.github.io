@@ -46,6 +46,12 @@ export default function Greeting(props) {
                   theme={theme}
                   href={greeting.resumeLink}
                 />
+                <Button
+                  text="See my blog"
+                  newTab={true}
+                  theme={theme}
+                  href={greeting.blogLink}
+                />
               </div>
             </div>
           </div>

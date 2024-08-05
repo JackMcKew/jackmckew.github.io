@@ -27,6 +27,7 @@ const greeting = {
   resumeLink: "https://jackmckew.dev/pages/Jack_McKew_CV.pdf",
   // portfolio_repository: "https://github.com/JackMcKew/masterPortfolio",
   githubProfile: "https://github.com/JackMcKew",
+  blogLink: "https://jackmckew.dev/",
 };
 
 const socialMediaLinks = [
