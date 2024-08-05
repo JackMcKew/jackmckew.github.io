@@ -47,16 +47,18 @@ class Experience extends Component {
             </div>
           </Fade>
         </div>
-        {experience.sections[0]["experiences"].map((item, index) => {
-          return (
-            <ExperienceCard
-              index={index}
-              totalCards={experience.sections[0]["experiences"].length}
-              experience={item}
-              theme={theme}
-            />
-          );
-        })}
+        <div>
+          {experience.sections[0]["experiences"].map((item, index) => {
+            return (
+              <ExperienceCard
+                index={index}
+                totalCards={experience.sections[0]["experiences"].length}
+                experience={item}
+                theme={theme}
+              />
+            );
+          })}
+        </div>
 
         {/* <ExperienceAccordion sections={experience["sections"]} theme={theme} /> */}
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />

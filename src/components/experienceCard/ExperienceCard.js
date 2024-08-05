@@ -13,8 +13,8 @@ class ExperienceCard extends Component {
         className="experience-list-item"
         style={{
           marginTop: index === 0 ? 30 : 50,
-          marginLeft: 100,
-          marginRight: 100,
+          // paddingLeft: 100,
+          // paddingRight: 100,
         }}
       >
         <Fade left duration={2000} distance="40px">
