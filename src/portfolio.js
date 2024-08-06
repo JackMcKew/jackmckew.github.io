@@ -408,12 +408,18 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Senior Full Stack Software Engineer (Full Time)",
+          title: "Senior Full Stack Software Engineer & Data Lead (Full Time)",
           company: "Deckee",
           company_url: "https://deckee.com/",
           logo_path: "deckee.jpg",
           duration: "2020 - Present",
-          description: `Responsible for delivering full stack features across a data analytics platform, search and rescue platform and safety information apps on iOS and Android. Accountable for cost management and all cloud infrastructure management on AWS. Led the development of a new data analytics platform for the marine industry.`,
+          description: [
+            "Lead and delivered a data analytics platform for government and commercial clients to interact with on the water data for their communities, resulting in over $300,000 of revenue in 2 months from launch.",
+            "Delivered key features for iOS and Android to keep over 400,000 boaters safe on the water through: weather alerts, geo spatial safety information, automatic on the water detection, log on log off and more.",
+            "Designed, developed and delivered a search and rescue platform solution with a successful real world trial of 6 marine rescue bases with over 50 volunteers in Western Australia.",
+            "Responsible for managing all DevOps, security, infrastructure and cost management of cloud resources on AWS. Lead a successful migration to well architected infrastructure and managed services, resulting in 0% cost increase in 4 years of development.",
+            "Lead the journey from capturing 0 data points per user, to over 9 billion data points and growing.",
+          ],
           color: "#000000",
         },
         {
@@ -422,8 +428,10 @@ const experience = {
           company_url: "https://www.galahcyber.com.au/",
           logo_path: "galahcyber.jpeg",
           duration: "2024 - Present",
-          description:
-            "I am responsible for compiling, and writing technical reports on cyber security engagements with customers, including penetration tests. Detailing the findings and recommended remediation for customers to improve their security posture.",
+          description: [
+            "Responsible for compiling, editing and delivering technical cyber security assessment reports to clients.",
+            "Accountable for documenting vulnerabilities and recommendations in a clear, concise manner.",
+          ],
           color: "#0879bf",
         },
         {
@@ -432,8 +440,10 @@ const experience = {
           company_url: "https://cyberlytica.com.au/",
           logo_path: "cyberlytica_logo_with_text.jpg",
           duration: "2020 - Present",
-          description:
-            "I run my own freelancing digital consultancy business, where I provide services in data engineering, data science, AI and full stack development. I mainly work with small businesses. I've also done an expert opinion report for a litigation case in NSW court.",
+          description: [
+            "Freelance digital services company specialising in data services.",
+            "Services include data automation, analytics & visualisation.",
+          ],
           color: "#9b1578",
         },
         {
@@ -442,8 +452,9 @@ const experience = {
           company_url: "https://arrowtail.com/",
           logo_path: "arrowtail.jpeg",
           duration: "2020",
-          description:
-            "Responsible for integrating Arrowtail’s explosive delivery capture app with on-site inventory management. Implementing asynchronous task processing and technical documentation to onboard future developers.",
+          description: [
+            "Responsible for integrating Arrowtail’s explosive delivery capture app with on-site inventory management.",
+          ],
           color: "#fc1f20",
         },
         {
@@ -452,8 +463,12 @@ const experience = {
           company_url: "https://aecom.com/",
           logo_path: "AECOM-png-aspx.png",
           duration: "2017 - 2020",
-          description:
-            "Transitioning from undergraduate to graduate engineer; working in the buildings sector to provide electrical services design for buildings and developing in house software for data analysis to automate repetitive tasks and reduce human error. Provided switchboard design, lighting design and power design in Defence, Health, Education, Critical Infrastructure and Commercial sectors.",
+          description: [
+            "Development and distribution of scientific computing software for environmental data sets.",
+            "Saved approximately 900 working hours through automation in 20% of my time.",
+            "Pioneered and lead an Australia wide Microsoft Excel training sessions.",
+            "Lighting, reticulation, switchboard, lightning protection system, PLC network design.",
+          ],
           color: "#fc1f20",
         },
         {
@@ -462,8 +477,9 @@ const experience = {
           company_url: "https://www.hunterh2o.com.au/",
           logo_path: "hunterh2o.jpg",
           duration: "2016 - 2018",
-          description:
-            "Working part time as an undergraduate controls engineer, I was responsible for developing control systems for water and wastewater treatment plants. I was also responsible for developing SCADA systems for monitoring and control of water and wastewater treatment plants.",
+          description: [
+            "Responsible for developing control & SCADA systems for water and wastewater treatment plants during my studies.",
+          ],
           color: "#fc1f20",
         },
         {
@@ -472,8 +488,9 @@ const experience = {
           company_url: "https://www.hunterh2o.com.au/",
           logo_path: "hammer_400x400.png",
           duration: "2014 - 2018",
-          description:
+          description: [
             "Working part time as a timber expert during my studies, I was responsible for providing advice to customers on timber selection, cutting and finishing. I was also responsible for maintaining the timber department and ensuring stock levels were maintained. Forklift certified.",
+          ],
           color: "#fc1f20",
         },
       ],

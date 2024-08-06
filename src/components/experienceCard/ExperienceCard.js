@@ -2,6 +2,16 @@ import React, { Component } from "react";
 import "./ExperienceCard.css";
 import { Fade } from "react-reveal";
 
+const DotPointList = ({ items }) => {
+  return (
+    <ul>
+      {items.map((item, index) => (
+        <li key={index}>{item}</li>
+      ))}
+    </ul>
+  );
+};
+
 class ExperienceCard extends Component {
   render() {
     const experience = this.props.experience;
@@ -56,7 +66,7 @@ class ExperienceCard extends Component {
             ></div>
             <div
               className="experience-card"
-              style={{ background: `${theme.body}` }}
+              style={{ background: `${theme.body}`, width: "80vw" }}
             >
               <div
                 style={{
@@ -110,7 +120,7 @@ class ExperienceCard extends Component {
                 }}
               >
                 <div className="repo-description" />
-                {experience["description"]}
+                <DotPointList items={experience["description"]} />
               </div>
             </div>
           </div>
