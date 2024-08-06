@@ -6,7 +6,9 @@ const DotPointList = ({ items }) => {
   return (
     <ul>
       {items.map((item, index) => (
-        <li key={index}>{item}</li>
+        <li style={{ marginBottom: 30 }} key={index}>
+          {item}
+        </li>
       ))}
     </ul>
   );
