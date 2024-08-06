@@ -36,7 +36,7 @@ const socialMediaLinks = [
     name: "Github",
     link: "https://github.com/JackMcKew",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
+    backgroundColor: "#682783", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
@@ -65,7 +65,7 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Lead and delivered a data analytics platform for government and commercial clients to interact with on the water data for their communities, resulting in over $300,000 of revenue in 2 months from launch.",
-        "⚡ Lead the journey from capturing 0 data points per user, to over 9 billion data points and growing for a marine safety app.",
+        "⚡ Lead the journey from capturing 0 data points, to over 9 billion data points and growing for a marine safety app.",
         "⚡ Developed and implemented an event driven system to identify geolocations to be on the water, handling 100 locations per second.",
       ],
       softwareSkills: [
