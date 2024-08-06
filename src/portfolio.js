@@ -64,9 +64,9 @@ const skills = {
       title: "Data Engineering, Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Pioneered on the water detection for location data, annotating billions of data points",
-        "⚡ Delivered scalable production ready data platforms for capturing, annotating and analysing data",
-        "⚡ Rolled out real-time  geospatial data pipelines for map consumption",
+        "⚡ Lead and delivered a data analytics platform for government and commercial clients to interact with on the water data for their communities, resulting in over $300,000 of revenue in 2 months from launch.",
+        "⚡ Lead the journey from capturing 0 data points per user, to over 9 billion data points and growing for a marine safety app.",
+        "⚡ Developed and implemented an event driven system to identify geolocations to be on the water, handling 100 locations per second.",
       ],
       softwareSkills: [
         {
@@ -109,10 +109,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Map interactions and delivering information through Mapbox",
-        "⚡ Developing mobile applications using Cordova and Capacitor",
-        "⚡ Creating application backend in Node and Express",
+        "⚡ Delivered key features for iOS and Android to keep over 400,000 boaters safe on the water through: weather alerts, geo spatial safety information, automatic on the water detection, log on log off and more.",
+        "⚡ Designed, developed and delivered a search and rescue platform solution with a successful real world trial of 6 marine rescue bases with over 50 volunteers in Western Australia.",
+        "⚡ Developed, packaged and distributed software to automate tasks reducing a week long task to seconds.",
       ],
       softwareSkills: [
         {
@@ -192,10 +191,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Successful migrations to managed services and serverless",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Minimal downtime migrations from NoSQL to SQL databases",
+        "⚡ Responsible for managing all DevOps, security, infrastructure and cost management of cloud resources on AWS, resulting in 0% cost increase in 4 years of development.",
+        "⚡ Lead a successful migration to well architected infrastructure and managed services",
+        "⚡ Lead successful, minimal downtime database migrations, including from NoSQL to SQL",
       ],
       softwareSkills: [
         {
