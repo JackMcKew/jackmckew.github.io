@@ -64,9 +64,9 @@ const skills = {
       title: "Data Engineering, Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Lead and delivered a data analytics platform for government and commercial clients to interact with on the water data for their communities, resulting in over $300,000 of revenue in 2 months from launch.",
+        "⚡ Generated over $300,000 in revenue within two months of launch by leading and delivering a data analytics platform and data lake for government and commercial clients to interact with on-the-water data for their communities.",
         "⚡ Lead the journey from capturing 0 data points, to over 9 billion data points and growing for a marine safety app.",
-        "⚡ Developed and implemented an event driven system to identify geolocations to be on the water, handling 100 locations per second.",
+        "⚡ Currently handling over 100 locations per second, responsible for implementing an event driven system to identify locations to be on the water.",
       ],
       softwareSkills: [
         {
@@ -109,8 +109,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
+        "⚡ Secured a $1.3 million dollar contract through designing, developing and delivering a successful real world trial of a search and rescue platform solution involving 6 marine rescue bases with over 50 volunteers in Western Australia.",
         "⚡ Delivered key features for iOS and Android to keep over 400,000 boaters safe on the water through: weather alerts, geo spatial safety information, automatic on the water detection, log on log off and more.",
-        "⚡ Designed, developed and delivered a search and rescue platform solution with a successful real world trial of 6 marine rescue bases with over 50 volunteers in Western Australia.",
         "⚡ Developed, packaged and distributed software to automate tasks reducing a week long task to seconds.",
       ],
       softwareSkills: [
