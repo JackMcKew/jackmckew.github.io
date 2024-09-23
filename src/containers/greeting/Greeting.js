@@ -58,11 +58,27 @@ export default function Greeting(props) {
             </div>
           </div>
           <div className="greeting-image-div">
-            {/* <img
-							alt="saad sitting on table"
-							src={require("../../assets/images/feelingProud.svg")}
-						></img> */}
-            <FeelingProud theme={theme} />
+            <p style={{ textAlign: "center" }}>
+              I made this
+              <span role="img" aria-label="pointing down">
+                👇
+              </span>
+              <span role="img" aria-label="pointing down">
+                👇
+              </span>
+              <span role="img" aria-label="pointing down">
+                👇
+              </span>
+              <span role="img" aria-label="pointing down">
+                👇
+              </span>
+              <span role="img" aria-label="pointing down">
+                👇
+              </span>
+            </p>
+            <video width="750" height="500" autoPlay controls>
+              <source src="/analytics-demo.mp4" type="video/mp4" />
+            </video>
           </div>
         </div>
       </div>
